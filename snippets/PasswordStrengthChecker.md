@@ -2,8 +2,8 @@
 title: Password Strength UI
 tags: components, password, security
 author: Razaul00003
-cover: [image file name or URL]
-date: [date of creation or last update]
+cover: ""
+date: "2023-04-22T05:00:00-04:00"
 ---
 
 To use the Password Strength UI component, you will need to first import it into your React project. Once imported, you can simply render the component with the desired password input field as a child component. The component will automatically update and display the strength of the password based on the user input.
