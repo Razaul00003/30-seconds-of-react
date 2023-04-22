@@ -16,7 +16,7 @@ import React, { useState } from "react";
 const PasswordStrengthChecker = () => {
   const [password, setPassword] = useState("");
   const [strength, setStrength] = useState("");
-
+  //password strength checker function
   const checkStrength = (password) => {
     let score = 0;
     if (password.length < 8) {
